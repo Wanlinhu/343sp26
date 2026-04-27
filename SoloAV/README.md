@@ -67,6 +67,8 @@ setcps(66/120)  // tempo: 66 BPM (expressed as ratio to 120 BPM grid)
 
 ## Reflection
 
-I found it quite challenging to edit visuals and audio simultaneously while performing live. Working on both at the same time means they are constantly taking turns — when one gets your attention, the other quietly waits. The Hydra kept running. Most of the Strudel patterns stayed commented out.
+I found it quite challenging to edit visuals and audio simultaneously while performing live; doing both at the same time requires constantly balancing the two. I wanted to create a slightly melancholic and serene atmosphere. I really enjoyed this live coding class—it introduced me to a different form of musical creation.
 
-Before this class I didn't know music could be made this way — writing code that plays, watching patterns shift in real time, nothing fixed. If I'd known earlier that coding could get me here, I probably would have started sooner.
+ I really love being able to create sound and visuals by interacting with the computer. If I’d known earlier that coding could help me achieve this, I probably would have gotten into live coding sooner.
+
+
