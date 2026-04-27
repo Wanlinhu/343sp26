@@ -69,6 +69,8 @@ setcps(66/120)  // tempo: 66 BPM (expressed as ratio to 120 BPM grid)
 
 I found it quite challenging to edit visuals and audio simultaneously while performing live; doing both at the same time requires constantly balancing the two. I wanted to create a slightly melancholic and serene atmosphere. I really enjoyed this live coding class—it introduced me to a different form of musical creation.
 
+One thing that’s both awkward and amusing to me is that sometimes when I switch to the Chinese input method, I accidentally type things like parentheses or commas, and the code isn’t recognized. The reactions I get from people, combined with the transparency of the code, make me feel both nervous and excited—it’s more like playing or performing on a musical instrument.
+
  I really love being able to create sound and visuals by interacting with the computer. If I’d known earlier that coding could help me achieve this, I probably would have gotten into live coding sooner.
 
 
